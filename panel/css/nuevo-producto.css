@@ -1,0 +1,37 @@
+.form-input {
+  width:70%;
+  padding:10px;
+  background:#fff;
+  border:2px dashed #DDDDDD;
+  text-align:center;
+}
+.form-input input {
+  display:none;
+}
+
+.form-input img {
+  width:100%;
+}
+
+
+.center {
+  height:100%;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+.form-input-1 {
+  width:30%;
+  padding:10px;
+  background:#fff;
+  border:2px dashed #DDDDDD;
+    text-align:center;
+}
+.form-input-1 input {
+  display:none;
+}
+
+.form-input-1 img {
+  width:100%;
+
+}

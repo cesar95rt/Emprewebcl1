@@ -1,0 +1,3 @@
+Estimado,<br>
+  Tu contraseña ha sido cambiada con éxito.<br>
+  Puedes acceder a tu cuenta con tu nueva contraseña a través del siguiente link: https://panel.empreweb.cl/login

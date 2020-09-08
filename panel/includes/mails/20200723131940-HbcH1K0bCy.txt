@@ -1,0 +1,7 @@
+<p><strong>¡Hola!</strong></p>
+  <p>Recibimos tu solicitud de recuperación de contraseña.</p>
+  <p>El código para reestablecerla es: 9jFGG3s0sK0vZHFlb5bi</p>
+  <p>Como alternativa, puedes realizar la recuperación directamente a través de este link: https://panel.empreweb.cl/crear-contrasena?codCambio=9jFGG3s0sK0vZHFlb5bi</p>
+  <p><br></p>
+  <p>Se despide atentamente,</p>
+  <p>El equipo de Empreweb.</p>
